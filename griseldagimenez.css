@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.carousel-item img {
+    filter: brightness(0.5);
+}
+
+#comprar {
+    color: rgb(27, 230, 27);
+}
+
+.card-text {
+    font-size: 10px;
+}
+
+
+.btn.btn-sm {
+    font-size: 12px;
+    padding: 3px 5px;
+
+}
+
+.bold-text {
+    font-weight: bold;
+}
+
+#btn_enviar {
+    background-color: rgb(120, 235, 74);
+    border: 0;
+    width: 100%;
+}
+
+footer a {
+    color: white;
+}
